@@ -25,3 +25,9 @@
 
 `}`
 `console.log(user);`
+### Dot notation
+-   You don't want to print whole object; jou just want specific piece of information you can use that.
+## Destructing
+-   Destructuring is a shortcut that lets you "unpack" properties from an object and turn them into regular variables in one single line.
+## Spread operator
+-   The spread operator is written as three dots (...). Its job is to "unpack" or "spread out" the contents of an array or an object into a new one. Think of it like pouring the contents of one box into a brand new box.
