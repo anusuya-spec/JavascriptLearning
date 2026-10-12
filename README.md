@@ -18,3 +18,10 @@
 ## Object
 - Arrays are great for lists, but what if you want to store a single entity with lots of details—like a user profile.
 - An object stores data in key-value pairs using curly braces `{ }`.
+`let user = {`
+    `name : "Anusuya",`
+   ` age : 32,`
+   ` isLearning : true`
+
+`}`
+`console.log(user);`
