@@ -1,4 +1,11 @@
 # My Full-Stack Learning Notes
+## let and const
+-let → value can be changed.
+-Example: `let age = 10;`
+            `age = 13`
+-const → value cannot be reassigned.
+-Example: `const country = "India"; `
+            `country = ''USA;`
 
 ## Day 6: Arrow Functions
 - Arrow functions are a shorter way to write functions.
