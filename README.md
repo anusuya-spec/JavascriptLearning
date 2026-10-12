@@ -1,10 +1,10 @@
 # My Full-Stack Learning Notes
 ## let and const
--let → value can be changed.
--Example: `let age = 10;`
+- let → value can be changed.
+- Example: `let age = 10;`
             `age = 13`
--const → value cannot be reassigned.
--Example: `const country = "India"; `
+- const → value cannot be reassigned.
+- Example: `const country = "India"; `
             `country = ''USA;`
 
 ## Day 6: Arrow Functions
